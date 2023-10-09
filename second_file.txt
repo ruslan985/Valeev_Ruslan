@@ -1,2 +1,3 @@
-first line of second file
-second line of second file
+first line of second file and more changes
+
+we lost the second one
